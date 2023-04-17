@@ -1,7 +1,7 @@
 
  <img src="https://cdn.discordapp.com/attachments/1062147783844450404/1096490312953774141/1638449054818_1_1.png" />
           
-## Olá! Eu sou German Garcia ✌️
+## Olá! Eu sou German Garcia
 
 ## Tecnologias que utilizo no meu dia a dia 
 
