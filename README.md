@@ -15,5 +15,6 @@
           
 <div align="right">
   
- ![GermanGarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanGarcia&theme=radical) 
+![German stats](https://github-readme-stats.vercel.app/api?username=germangarcia013&show_icons=true&theme=radical)
+
 </div>
