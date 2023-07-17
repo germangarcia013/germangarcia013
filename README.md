@@ -3,6 +3,8 @@
           
 ## Olá! Eu sou German Garcia, seja bem-vindo(a) ao meu Github
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germangarcia013/)
+
 ## Tecnologias que utilizo no meu dia a dia 
 
 <div style="display: inline_block"><br>
